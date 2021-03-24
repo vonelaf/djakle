@@ -5,7 +5,7 @@ and great transition
 
 # Installation
 
-`npm i djakle --save`
+`git clone https://github.com/vonelaf/djakle.git`
 
 Then...
 
